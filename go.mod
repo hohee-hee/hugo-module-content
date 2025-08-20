@@ -1,3 +1,3 @@
-module github.com/jmooring/hugo-module-content
+module github.com/hohee-hee/hugo-module-content
 
 go 1.12
